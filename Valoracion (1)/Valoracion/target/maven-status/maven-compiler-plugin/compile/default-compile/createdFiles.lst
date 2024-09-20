@@ -1,0 +1,7 @@
+com\umariana\valoracion\resources\JavaEE8Resource.class
+servlets\sv_editarVal.class
+mundo\gestionarValoracion.class
+mundo\Valoracion.class
+com\umariana\valoracion\JAXRSConfiguration.class
+servlets\sv_borrarVal.class
+servlets\sv_receptor.class
